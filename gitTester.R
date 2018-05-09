@@ -5,3 +5,5 @@
 # I will create a repo on GitHub with this file. I beleive you will need to make a "pull request"
 # This would result in your downloading the file. Make some changes (i.e. respond to this message)
 # Then I think you somehow submit your changes and I would accept them.
+
+# This is a change I am making prior to inviting you to the repo
