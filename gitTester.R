@@ -1,3 +1,6 @@
+#Ok - so I signed up! Because I did not have "write access" to this file it has created a fork for me to commit my proposed changes to. Once I submit
+#a change it says it will write to a new branch in the fork and then I can send a pull request. Let's try it out!
+
 # Hey Merran, I thought we could test out using GIT together with this script. I will send you a
 # link on GitHub.
 # This can be a longer term/slow project but I though it would be fun to test.
